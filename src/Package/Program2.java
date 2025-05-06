@@ -7,7 +7,7 @@ public class Program2 {
 		Scanner sc=new Scanner(System.in);
 		//Square of a number
 		System.out.println("Enter a number:");
-		int n =s.nextInt();
+		int n =sc.nextInt();
 		System.out.println("Square of"+n+"is:"+(n*n));
 	}
 }
